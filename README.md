@@ -117,3 +117,10 @@ spring.datasource.username=your_username
 spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
+
+
+## Author
+
+**Anil Kumar**  
+📧 anilkumarnagisetty0045@example.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/anilkumarnagisetty)
